@@ -79,7 +79,7 @@ def maksymalna(listaLiczb, zapamietana):
     else:
         return zapamietana
 
-lista=[1,2,3,4,5]
+lista=[5,6,7,8,9,10]
 wynik=maksymalna(lista, lista[0])
 print(wynik)
 
