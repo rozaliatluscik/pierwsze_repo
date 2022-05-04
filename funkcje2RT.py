@@ -47,7 +47,7 @@ print(wynik)
 
 
 Zadanie 1
-lista=[1,2,3,4,5]
+lista=[5,6,7,8,9,1,0,11,10,4]
 def ostatni(listaLiczb):
     if len(listaLiczb)>1:
         return ostatni(listaLiczb[1:])
@@ -100,3 +100,6 @@ print(wynik)
 
 listeczka = [51,23,44,67,90]
 print(listeczka)
+
+listunia = [224,2141,5436,232]
+print(listunia)
