@@ -1,7 +1,7 @@
-liczba=7
+liczba=899
 
 def dzialanie():
-    liczba=5
+    liczba=567567
 
 print(liczba)
 
@@ -96,3 +96,7 @@ def czynaliscie(listaLiczb, do_sprawdzenia):
 lista=[1,2,3,4,5]
 wynik=czynaliscie(lista, 5)
 print(wynik)
+
+
+listeczka = [51,23,44,67,90]
+print(listeczka)
