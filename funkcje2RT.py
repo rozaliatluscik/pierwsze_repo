@@ -1,7 +1,7 @@
-liczba=7
+liczba=899
 
 def dzialanie():
-    liczba=5
+    liczba=567567
 
 print(liczba)
 
