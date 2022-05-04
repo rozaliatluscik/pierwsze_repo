@@ -100,3 +100,6 @@ print(wynik)
 
 listeczka = [51,23,44,67,90]
 print(listeczka)
+
+listunia = [224,2141,5436,232]
+print(listunia)
