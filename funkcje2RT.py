@@ -93,6 +93,6 @@ def czynaliscie(listaLiczb, do_sprawdzenia):
     else:
         return "NIE"
 
-lista=[1,2,3,4,5]
+lista=[8,9,20,5]
 wynik=czynaliscie(lista, 5)
 print(wynik)
