@@ -96,3 +96,7 @@ def czynaliscie(listaLiczb, do_sprawdzenia):
 lista=[1,2,3,4,5]
 wynik=czynaliscie(lista, 5)
 print(wynik)
+
+
+listeczka = [51,23,44,67,90]
+print(listeczka)
